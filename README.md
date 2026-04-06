@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on web-based system projects using Laravel  
+- 🌱 I’m currently learning UI/UX Design, System Analysis, and backend development
+- 📫 How to reach me: rajibhakim10@gmail.com     
